@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi there 👋, I'm Marc 
 
-<!--
-**marcharaoui/marcharaoui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Machine Learning Engineer passionate about advancing AI technologies and turning cutting-edge ideas into real-world solutions. With expertise in generative AI, multimodal systems, and state-of-the-art deep learning techniques, I thrive on solving complex challenges at the intersection of research and application.
 
-Here are some ideas to get you started:
+- ⚡ Currently working on Multimodal Language Models, Retrieval-Augmented Generation (RAG) pipelines, and AI Agents.
+- 🔭 Exploring 
+- 🎓 Double M. Eng degree; AI and Robotics
+- 👩🏻‍💻 Passionate open-source coder
+- 🎮 Also a fan of IoT and VR
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### Socials 
+
+I am active on social platforms, so let's connect 🌐
+
+- <img alt="LinkedIn profile" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" width="24" height="24"> [Marc Haraoui](https://www.linkedin.com/in/marc-haraoui/)
+-  <img alt="X profile" src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" width="24" height="24"> [@MarcHaraoui](https://x.com/marcharaoui)
+
+
+

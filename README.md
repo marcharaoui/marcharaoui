@@ -3,7 +3,6 @@
 I’m a Machine Learning Engineer passionate about advancing AI technologies and turning cutting-edge ideas into real-world solutions. With expertise in generative AI, multimodal systems, and state-of-the-art deep learning techniques, I thrive on solving complex challenges at the intersection of research and application.
 
 - ⚡ Currently working on Multimodal Language Models, Retrieval-Augmented Generation (RAG) pipelines, and AI Agents.
-- 🔭 Exploring 
 - 🎓 Double M. Eng degree; AI and Robotics
 - 👩🏻‍💻 Passionate open-source coder
 - 🎮 Also a fan of IoT and VR
